@@ -9,4 +9,4 @@
 ### Regular Expressions (https://github.com/mmotti/pihole-regex) ###
 ### fdown.net
 ### ^analytics?[_.-]
-^stat(s|istics)?[0-9]*[_.-]
+### ^stat(s|istics)?[0-9]*[_.-]
