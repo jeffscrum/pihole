@@ -4,6 +4,7 @@
 0.0.0.0 ad.mail.ru
 0.0.0.0 ad.adriver.ru
 0.0.0.0 report.appmetrica.webvisor.com
+0.0.0.0 analytics.fdown.net
 
 
 ### Regular Expressions (https://github.com/mmotti/pihole-regex) ###
