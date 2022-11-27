@@ -2,7 +2,11 @@
 #               Blacklist                  #
 ############################################
 
-### Domains ###
+# Import this lists:
+#   - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+
+
+################ Domains ###################
 0.0.0.0 u7527.32.spylog.com
 0.0.0.0 ads.reddit.com
 0.0.0.0 ad.mail.ru
