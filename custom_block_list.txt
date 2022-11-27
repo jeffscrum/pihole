@@ -1,13 +1,23 @@
+############################################
+#               Blacklist                  #
+############################################
+
 ### Domains ###
 0.0.0.0 u7527.32.spylog.com
 0.0.0.0 ads.reddit.com
 0.0.0.0 ad.mail.ru
 0.0.0.0 ad.adriver.ru
 0.0.0.0 report.appmetrica.webvisor.com
-#0.0.0.0 analytics.fdown.net
 
 
 ### Regular Expressions (https://github.com/mmotti/pihole-regex) ###
-### fdown.net
-### ^analytics?[_.-]
-### ^stat(s|istics)?[0-9]*[_.-]
+# fdown.net
+# ^analytics?[_.-]
+# ^stat(s|istics)?[0-9]*[_.-]
+
+############################################
+#               WhiteList                  #
+############################################
+
+# report.appmetrica.yandex.net
+
