@@ -24,4 +24,5 @@
 ############################################
 
 # report.appmetrica.yandex.net
+# startup.mobile.yandex.net
 
