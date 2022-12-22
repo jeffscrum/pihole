@@ -31,7 +31,7 @@
 ############################################
 #               WhiteList                  #
 ############################################
-
-# report.appmetrica.yandex.net
-# startup.mobile.yandex.net
-
+# Allowed for yandex-station only:
+# - report.appmetrica.yandex.net
+# - startup.mobile.yandex.net
+# - clck.yandex.net
