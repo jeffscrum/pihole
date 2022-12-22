@@ -25,6 +25,8 @@
 # ^beacons?[0-9]*[_.-]
 # ^banners?[_.-]
 # ^advert(s|is(ing|ements?))?[0-9]*[_.-]
+# my-imcloud.com
+# qcloud.com
 
 ############################################
 #               WhiteList                  #
