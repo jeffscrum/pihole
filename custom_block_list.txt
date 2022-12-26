@@ -35,3 +35,7 @@
 # - report.appmetrica.yandex.net
 # - startup.mobile.yandex.net
 # - clck.yandex.net
+
+# Allowed for all:
+# - liveplay.trovo.live
+
